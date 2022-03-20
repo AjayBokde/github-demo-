@@ -4,4 +4,7 @@ Yellow
 green
 black
 violet
-r
+<<<<<<< HEAD
+resolve conflict
+=======
+>>>>>>> colour-redo
